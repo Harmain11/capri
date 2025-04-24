@@ -1,0 +1,9 @@
+Flask
+openai
+pandas
+langchain-openai
+langchain-community
+langchain
+langdetect
+faiss-cpu
+gunicorn
